@@ -17,5 +17,6 @@ I'm a passionate Machine Learning student. Currently exploring Optimization tech
 
 ## Contact
 - Email: yashasnadigsyn@proton.me
+
   
 [View My Projects](https://github.com/yashasnadigsyn?tab=repositories)
