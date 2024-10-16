@@ -1,16 +1,21 @@
-## Hi there 👋
+# Yashas Nadig S
 
-<!--
-**yashasnadigsyn/yashasnadigsyn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🤖 Machine Learning Enthusiast | Data Science Student | Python Developer
 
-Here are some ideas to get you started:
+## About Me
+I'm a passionate Machine Learning student. Currently exploring Optimization techniques and LLMs.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Skills
+- Languages: Python, Nim, Rust
+- Technologies: PyTorch, Scikit-learn
+- Data Analysis: Pandas, NumPy, Matplotlib, Seaborn
+- Version Control: Git, GitHub, Codeberg
+- Databases: SQLite
+
+## Current Projects
+- [ofts-cli: A simple Google photos alternative that runs inside your terminal ](https://github.com/yashasnadigsyn/ofts-cli)
+
+## Contact
+- Email: yashasnadigsyn@proton.me
+  
+[View My Projects](https://github.com/yashasnadigsyn?tab=repositories)
